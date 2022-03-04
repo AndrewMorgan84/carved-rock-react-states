@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Products from "./components/products";
+import Products from "./components/Products";
 import Footer from "./Footer";
 import Header from "./Header";
 
